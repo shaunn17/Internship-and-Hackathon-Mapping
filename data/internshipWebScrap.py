@@ -16,7 +16,7 @@ urls = ['https://internshala.com/internships/.net%20development,3d%20printing,ae
 i = 0
 
 df = pd.DataFrame()
-
+ 
 for url in urls:
     driver.get(url)
 
