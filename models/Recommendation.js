@@ -32,4 +32,4 @@ const RecSchema = new Schema({
     }
 });
 
-module.exports = mongoose.model('recommendations', RecSchema);
+module.exports = mongoose.model('recommendations', RecSchema); 
