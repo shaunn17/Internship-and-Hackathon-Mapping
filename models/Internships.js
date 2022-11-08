@@ -40,4 +40,4 @@ const IntSchema = new Schema({
     }
 });
 
-module.exports = mongoose.model('internships', IntSchema);
+module.exports = mongoose.model('internships', IntSchema); 
