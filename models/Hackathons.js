@@ -6,7 +6,7 @@ const HackSchema = new Schema({
         type: String,
         required: true
     },
-    Status: {
+    Status: { 
         type: String,
         required: true
     },
